@@ -1,6 +1,6 @@
-# 💫 About Me:
+# 💫 Hello! I'm Paula!
 
-🚀 Hello! I'm Paula. My world revolves around lines of code, challenges, and creative solutions in technology.
+ 🚀 My world revolves around lines of code, challenges, and creative solutions in technology.
 
 🌟 I have a genuine passion for learning. My resilience and proactivity drive me to go beyond, always seeking knowledge. Working under intense pressure is an aspect I'm actively improving, and I'm committed to overcoming this challenge.
 
