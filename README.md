@@ -4,7 +4,7 @@
 
 🌟 I have a genuine passion for learning. My resilience and proactivity drive me to go beyond, always seeking knowledge. Working under intense pressure is an aspect I'm actively improving, and I'm committed to overcoming this challenge.
 
-💡 I'm currently halfway through the Rocketseat Explorer Program, with plans to complete it and then pursue the Ignite Program. Additionally, I work as a Python tutor for children. I've delved deep into TypeScript, React, Node, Express, and more.
+💡 I've embarked on an exciting journey with Codecademy's Full Stack Engineer career path, aiming to master both front-end and back-end development. Additionally, I work as a Python tutor for children.
 
 🔍 In my toolkit, I excel in: React, Node, JavaScript, TypeScript, Express, SQL, NoSQL, Python, HTML, and CSS. Beyond the technical skills, my soft skills, such as resilience and proactivity, are crucial on my professional journey.
 
